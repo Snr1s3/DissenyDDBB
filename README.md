@@ -47,4 +47,6 @@ Una parcel·la te un identificador propi, tambe el codi del carrer al que pertan
 
 # Model Relacional
 
-[![Model Relacional](./DissenyDDBB.drawio.svg)](./DissenyDDBB.drawio.svg)
+<a href="./DissenyDDBB.jpg">
+    <img src="./DissenyDDBB.jpg">
+</a>
